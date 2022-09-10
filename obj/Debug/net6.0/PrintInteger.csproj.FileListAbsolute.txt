@@ -1,0 +1,15 @@
+/home/saint/Desktop/PrintInteger/bin/Debug/net6.0/PrintInteger
+/home/saint/Desktop/PrintInteger/bin/Debug/net6.0/PrintInteger.deps.json
+/home/saint/Desktop/PrintInteger/bin/Debug/net6.0/PrintInteger.runtimeconfig.json
+/home/saint/Desktop/PrintInteger/bin/Debug/net6.0/PrintInteger.dll
+/home/saint/Desktop/PrintInteger/bin/Debug/net6.0/PrintInteger.pdb
+/home/saint/Desktop/PrintInteger/obj/Debug/net6.0/PrintInteger.csproj.AssemblyReference.cache
+/home/saint/Desktop/PrintInteger/obj/Debug/net6.0/PrintInteger.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/PrintInteger/obj/Debug/net6.0/PrintInteger.AssemblyInfoInputs.cache
+/home/saint/Desktop/PrintInteger/obj/Debug/net6.0/PrintInteger.AssemblyInfo.cs
+/home/saint/Desktop/PrintInteger/obj/Debug/net6.0/PrintInteger.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/PrintInteger/obj/Debug/net6.0/PrintInteger.dll
+/home/saint/Desktop/PrintInteger/obj/Debug/net6.0/refint/PrintInteger.dll
+/home/saint/Desktop/PrintInteger/obj/Debug/net6.0/PrintInteger.pdb
+/home/saint/Desktop/PrintInteger/obj/Debug/net6.0/PrintInteger.genruntimeconfig.cache
+/home/saint/Desktop/PrintInteger/obj/Debug/net6.0/ref/PrintInteger.dll
